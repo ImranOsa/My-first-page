@@ -1,0 +1,69 @@
+* {
+    background-color: #ccf6c8;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    margin-top: 0;
+    font-family: 'Pacifico', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.top {
+    background-color: #ccf6c8;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+/**.middle {}
+
+.bottom {}*/
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+
+/*.prof {
+    width: 300px;
+    margin-top: 40px;*/
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill {
+    width: 25%;
+}
+
+.cycling {
+    width: 25%;
+}
